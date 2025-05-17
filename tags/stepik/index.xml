@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Stepik | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/stepik/</link>
+      <atom:link href="http://localhost:1313/tags/stepik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stepik</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <title>Stepik</title>
+      <link>http://localhost:1313/tags/stepik/</link>
     </image>
-    
-    <item>
-      <title>Github</title>
-      <link>http://localhost:1313/project/github/</link>
-      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/github/</guid>
-      <description>&lt;p&gt;Этот проект демонстрирует, как работать с Hugo — мощным генератором статических сайтов. Вы узнаете, как создать современный сайт на последней версии Hugo, настроить конфигурацию и развернуть проект. В руководстве подробно описаны основные функции и лучшие практики работы с фреймворком. Проект подходит как для новичков, так и для опытных разработчиков.&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Stepik</title>
